@@ -1,17 +1,15 @@
 <h1> 🖥️ Projeto <h1/>
 
-<p>Esse é um projeto Web Responsivo de um site de hamburgues.<p/>
+Esse é um projeto Web Responsivo de um site de hamburgues.
 
 <h1> 🚀 Tecnologias <h1/>
 
-<p> Esse projeto foi desenvolvido durante o curso B7Web com as seguintes tecnologia <p/>
+Esse projeto foi desenvolvido durante o curso B7Web com as seguintes tecnologia.
 
-<ul>
-    <li>HTML5<li/>
-    <li>CSS3<li/>
-    <li>Git e Github<li/>
+    HTML5
+    CSS3
+    Git e Github
 
-<ul/>
 
 
 
